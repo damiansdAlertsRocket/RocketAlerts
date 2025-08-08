@@ -1,0 +1,11 @@
+{
+  "GOLD": "XAUUSD.FOREX",
+  "SILVER": "XAGUSD.FOREX",
+  "CL=F": "CL.US",
+  "^GSPC": "US500.INDX",
+  "^DJI": "DJI.INDX",
+  "^IXIC": "IXIC.INDX",
+  "^DAX": "GDAXI.INDX",
+  "NASDAQ": "IXIC.INDX",
+  "DJ30": "DJI.INDX"
+}

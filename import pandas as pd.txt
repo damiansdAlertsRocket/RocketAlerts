@@ -1,0 +1,8 @@
+import pandas as pd
+
+df = pd.read_csv("data/BTC-USD_1d.csv")
+print("\n🧪 Typy danych:")
+print(df.dtypes)
+
+print("\n🔍 Pierwsze wiersze:")
+print(df.head(10))

@@ -1,0 +1,5 @@
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run]
+"RocketAlerts"="C:\\Users\\Damia\\OneDrive\\Desktop\\RocketAlerts_ENTERPRISE_PRO_PLUS\\uruchom_alerty.bat"

@@ -1,0 +1,387 @@
+# Audit report — R:/RocketAlerts
+## Summary
+- Python files: **106**
+- Warnings: **183**
+- Errors: **0**
+- Osieroconych plików: **61**
+
+## Warnings
+- [WARNING] R:/RocketAlerts/alerts.py:212: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts.py:216: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts.py:219: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts.py:223: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts.py:226: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts.py:238: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts.py:251: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts.py:259: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts.py:269: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts.py:272: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts.py:275: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts.py:278: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts_with_trailing_and_pdf.py:22: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts_with_trailing_and_pdf.py:24: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts_with_trailing_and_pdf.py:30: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts_with_trailing_and_pdf.py:34: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts_with_trailing_and_pdf.py:39: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts_with_trailing_and_pdf.py:45: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts_with_trailing_and_pdf.py:49: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts_with_trailing_and_pdf.py:61: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts_with_trailing_and_pdf.py:96: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/alerts_with_trailing_and_pdf.py:97: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/archive_orphans.py:44: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/archive_orphans.py:47: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/archive_orphans.py:49: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/backtest.py:76: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/backtest.py:97: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/backtest.py:112: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/backtest_model.py:29: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/backtest_report.py:14: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/backtest_report.py:56: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/backtest_report.py:67: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/backtest_report.py:84: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/calculate_indicators.py:11: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/calculate_indicators.py:21: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/calculate_indicators.py:53: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/calculate_indicators.py:56: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/calculate_indicators.py:63: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/check_csv.py:3: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/check_csv.py:4: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/check_csv.py:6: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/check_csv.py:7: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/collect_all_data.py:27: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/collect_all_data.py:30: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/collect_all_data.py:34: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/collect_all_data.py:37: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/collect_all_data.py:41: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/collect_all_data.py:45: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fetch_macro_events.py:35: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fetch_macro_events.py:44: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fetch_macro_events.py:48: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fetch_macro_events.py:49: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fetch_macro_events.py:76: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fetch_macro_events_from_forexfactory.py:14: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fetch_macro_events_from_forexfactory.py:29: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fetch_macro_events_from_forexfactory.py:58: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fetch_macro_events_from_forexfactory.py:63: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fetch_macro_events_from_forexfactory.py:102: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fetch_macro_events_from_forexfactory.py:112: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fetch_macro_events_from_forexfactory.py:122: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fix_csv_errors.py:6: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fix_csv_errors.py:18: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fix_csv_errors.py:21: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fix_csv_errors.py:24: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fix_csv_errors.py:25: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fix_csv_errors.py:26: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fix_csv_headers.py:5: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fix_csv_headers.py:14: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fix_csv_headers.py:17: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/fix_csv_headers.py:19: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/generate_data_and_charts.py:72: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/generate_data_and_charts.py:82: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/generate_data_and_charts.py:119: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/generate_data_and_charts.py:122: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/generate_data_and_charts.py:125: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/generate_data_and_charts.py:129: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/generate_model_report.py:40: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/generate_model_report.py:70: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/generate_model_report.py:73: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/generate_model_report.py:85: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/get_macro_events.py:17: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/get_macro_events.py:82: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/helpers.py:267: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/helpers.py:297: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/internet_monitor.py:18: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/macro.py:10: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/macro.py:17: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/macro.py:43: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/macro_fetcher.py:54: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/macro_fetcher.py:56: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/pdf_export.py:76: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/pdf_export.py:80: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/pdf_exporter.py:71: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/predict.py:11: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/predict.py:21: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/predict.py:29: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/predict.py:36: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/repair_cooldown_log.py:13: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/replace_clean_files.py:21: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/replace_clean_files.py:23: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/requirements.py:46: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/requirements.py:49: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/requirements.py:52: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/requirements.py:54: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/restart.py:6: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/restart.py:10: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/restart.py:14: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/rocket_audit_all.py:61: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/rocket_audit_all.py:170: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/rocket_audit_all.py:173: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/rocket_audit_all.py:187: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/rocket_audit_all.py:188: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/rocket_audit_all.py:196: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/rocket_check_all.py:89: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/run_alerts.py:25: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/run_alerts.py:40: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/run_alerts.py:89: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/run_alerts.py:92: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/run_all.py:6: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/run_all.py:8: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/run_all.py:11: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/run_all.py:15: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/send_alert.py:23: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/send_alert.py:30: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/send_alert.py:40: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/send_alert.py:48: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/send_alert.py:50: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/send_alert.py:64: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/send_alert.py:70: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/shap_analysis.py:27: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/terminal_cli.py:20: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/terminal_cli.py:28: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/terminal_cli.py:29: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/terminal_cli.py:30: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/terminal_cli.py:31: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/terminal_cli.py:32: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/terminal_cli.py:33: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/terminal_cli.py:34: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/terminal_cli.py:35: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/terminal_cli.py:36: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_alert.py:12: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_alert.py:14: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_alert.py:18: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_alert_all.py:7: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_alert_all.py:14: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_alert_all.py:20: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_alert_all.py:28: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_alert_all.py:34: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_alert_all.py:36: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_alert_all.py:42: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_alert_all.py:44: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_full_system.py:5: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_full_system.py:8: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_full_system.py:10: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_full_system.py:27: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_single_alert.py:8: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_tv.py:1: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_tv.py:4: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_tvdata.py:13: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/test_tvdata.py:15: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/tvdatafeed_patch.py:11: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/twilio_test.py:18: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/twilio_test.py:20: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/uruchom_alerty.py:9: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/uruchom_alerty.py:11: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/uruchom_alerty.py:14: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/uruchom_alerty.py:20: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/volatility.py:57: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/utils/helpers.py:18: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/utils/helpers.py:30: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/utils/helpers.py:57: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/utils/helpers.py:64: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/utils/helpers.py:101: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/utils/indicators.py:80: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/utils/init_cooldown_log.py:12: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/utils/init_cooldown_log.py:23: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/utils/init_cooldown_log.py:31: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/utils/init_cooldown_log.py:34: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/utils/ngrok_url.py:22: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/utils/ngrok_url.py:24: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/utils/ngrok_url.py:26: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/utils/send_alert.py:21: print() w kodzie bibliotecznym – rozważ logging.
+- [WARNING] R:/RocketAlerts/utils/send_alert.py:23: print() w kodzie bibliotecznym – rozważ logging.
+
+## Data checks
+- ℹ️ CHECK R:/RocketAlerts/data/AUDJPY=X_15m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/AUDJPY=X_1d.csv: rows 11064 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/AUDJPY=X_1h.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/AUDJPY=X_1m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/AUDJPY=X_4h.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/AUDJPY=X_5m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/AUDJPYX_1d.csv: rows 11062 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/BTC-USD_15m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/BTC-USD_1d.csv: rows 43 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/BTC-USD_1h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/BTC-USD_1m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/BTC-USD_4h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/BTC-USD_5m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/BTCUSDT_15m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/BTCUSDT_1d.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/BTCUSDT_1h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/BTCUSDT_1m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/BTCUSDT_4h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/BTCUSDT_5m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/CL=F_15m.csv: rows 0 | anomalies: empty dataframe
+- ℹ️ CHECK R:/RocketAlerts/data/CL=F_1d.csv: rows 13178
+- ℹ️ CHECK R:/RocketAlerts/data/CL=F_1h.csv: rows 0 | anomalies: empty dataframe
+- ℹ️ CHECK R:/RocketAlerts/data/CL=F_1m.csv: rows 0 | anomalies: empty dataframe
+- ℹ️ CHECK R:/RocketAlerts/data/CL=F_5m.csv: rows 0 | anomalies: empty dataframe
+- ℹ️ CHECK R:/RocketAlerts/data/DJ30_15m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/DJ30_1d.csv: rows 21378
+- ℹ️ CHECK R:/RocketAlerts/data/DJ30_1h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/DJ30_1m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/DJ30_4h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/DJ30_5m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/ETH-USD_15m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/ETH-USD_1d.csv: rows 43 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/ETH-USD_1h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/ETH-USD_1m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/ETH-USD_4h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/ETH-USD_5m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/ETHUSDT_15m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/ETHUSDT_1d.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/ETHUSDT_1h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/ETHUSDT_1m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/ETHUSDT_4h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/ETHUSDT_5m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/EURUSD=X_15m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/EURUSD=X_1d.csv: rows 7781
+- ℹ️ CHECK R:/RocketAlerts/data/EURUSD=X_1h.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/EURUSD=X_1m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/EURUSD=X_4h.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/EURUSD=X_5m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/EURUSDX_1d.csv: rows 7778
+- ℹ️ CHECK R:/RocketAlerts/data/FTSE100_15m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/FTSE100_1h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/FTSE100_1m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/FTSE100_4h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/FTSE100_5m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/GBPUSD=X_15m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/GBPUSD=X_1d.csv: rows 14100 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/GBPUSD=X_1h.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/GBPUSD=X_1m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/GBPUSD=X_4h.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/GBPUSD=X_5m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/GBPUSDX_1d.csv: rows 14098 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/GCF_15m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/GCF_1d.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/GCF_1h.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/GCF_1m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/GCF_4h.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/GCF_5m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/GOLD_15m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/GOLD_1d.csv: rows 11840
+- ℹ️ CHECK R:/RocketAlerts/data/GOLD_1h.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/GOLD_1m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/GOLD_4h.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/GOLD_5m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/GSPC_1d.csv: rows 4505
+- ℹ️ CHECK R:/RocketAlerts/data/macro_events.csv: rows 50
+- ℹ️ CHECK R:/RocketAlerts/data/NASDAQ_15m.csv: rows 201
+- ℹ️ CHECK R:/RocketAlerts/data/NASDAQ_1d.csv: rows 10046
+- ℹ️ CHECK R:/RocketAlerts/data/NASDAQ_1h.csv: rows 193
+- ℹ️ CHECK R:/RocketAlerts/data/NASDAQ_1m.csv: rows 353
+- ℹ️ CHECK R:/RocketAlerts/data/NASDAQ_4h.csv: rows 169
+- ℹ️ CHECK R:/RocketAlerts/data/NASDAQ_5m.csv: rows 203
+- ℹ️ CHECK R:/RocketAlerts/data/SILVER_15m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/SILVER_1d.csv: rows 11347
+- ℹ️ CHECK R:/RocketAlerts/data/SILVER_1h.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/SILVER_1m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/SILVER_4h.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/SILVER_5m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/SOL-USD_15m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/SOL-USD_1d.csv: rows 43 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/SOL-USD_1h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/SOL-USD_1m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/SOL-USD_4h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/SOL-USD_5m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/SOLUSDT_15m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/SOLUSDT_1d.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/SOLUSDT_1h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/SOLUSDT_1m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/SOLUSDT_4h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/SOLUSDT_5m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/USDJPY=X_15m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/USDJPY=X_1d.csv: rows 14106 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/USDJPY=X_1h.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/USDJPY=X_1m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/USDJPY=X_4h.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/USDJPY=X_5m.csv: rows 1000 | anomalies: Volume all zero
+- ℹ️ CHECK R:/RocketAlerts/data/^DAX_1d.csv: rows 11670
+- ℹ️ CHECK R:/RocketAlerts/data/^DAX_1h.csv: rows 0 | anomalies: empty dataframe
+- ℹ️ CHECK R:/RocketAlerts/data/^DAX_5m.csv: rows 0 | anomalies: empty dataframe
+- ℹ️ CHECK R:/RocketAlerts/data/^DJI_15m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/^DJI_1d.csv: rows 21378
+- ℹ️ CHECK R:/RocketAlerts/data/^DJI_1h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/^DJI_1m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/^DJI_4h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/^DJI_5m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/^FTSE_15m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/^FTSE_1h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/^FTSE_1m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/^FTSE_4h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/^FTSE_5m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/^GSPC_15m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/^GSPC_1d.csv: rows 7164
+- ℹ️ CHECK R:/RocketAlerts/data/^GSPC_1h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/^GSPC_1m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/^GSPC_4h.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/^GSPC_5m.csv: rows 1000
+- ℹ️ CHECK R:/RocketAlerts/data/^IXIC_15m.csv: rows 201
+- ℹ️ CHECK R:/RocketAlerts/data/^IXIC_1d.csv: rows 10046
+- ℹ️ CHECK R:/RocketAlerts/data/^IXIC_1h.csv: rows 193
+- ℹ️ CHECK R:/RocketAlerts/data/^IXIC_1m.csv: rows 353
+- ℹ️ CHECK R:/RocketAlerts/data/^IXIC_4h.csv: rows 169
+- ℹ️ CHECK R:/RocketAlerts/data/^IXIC_5m.csv: rows 203
+
+## Orphans (heurystyka)
+- R:/RocketAlerts/alerts_with_trailing_and_pdf.py
+- R:/RocketAlerts/analyze_asset.py
+- R:/RocketAlerts/archive_orphans.py
+- R:/RocketAlerts/backtest_model.py
+- R:/RocketAlerts/backtest_report.py
+- R:/RocketAlerts/branding/generate_certificate.py
+- R:/RocketAlerts/calculate_indicators.py
+- R:/RocketAlerts/check_csv.py
+- R:/RocketAlerts/collect_all_data.py
+- R:/RocketAlerts/config/twilio_config.py
+- R:/RocketAlerts/correlation.py
+- R:/RocketAlerts/data_sources/fetch_binance.py
+- R:/RocketAlerts/data_sources/fetch_eodhd.py
+- R:/RocketAlerts/data_sources/fetch_twelvedata.py
+- R:/RocketAlerts/data_validation.py
+- R:/RocketAlerts/drive_upload.py
+- R:/RocketAlerts/educational_tooltips.py
+- R:/RocketAlerts/fetch_daily_patch.py
+- R:/RocketAlerts/fetch_macro_events_from_forexfactory.py
+- R:/RocketAlerts/fix_csv_errors.py
+- R:/RocketAlerts/fix_csv_headers.py
+- R:/RocketAlerts/generate_data_and_charts.py
+- R:/RocketAlerts/generate_model_report.py
+- R:/RocketAlerts/get_macro_events.py
+- R:/RocketAlerts/heatmap.py
+- R:/RocketAlerts/invalidation.py
+- R:/RocketAlerts/macro.py
+- R:/RocketAlerts/macro_fetcher.py
+- R:/RocketAlerts/market_structure.py
+- R:/RocketAlerts/portfolio.py
+- R:/RocketAlerts/predict.py
+- R:/RocketAlerts/repair_cooldown_log.py
+- R:/RocketAlerts/replace_clean_files.py
+- R:/RocketAlerts/requirements.py
+- R:/RocketAlerts/rest_api.py
+- R:/RocketAlerts/restart.py
+- R:/RocketAlerts/risk_panel.py
+- R:/RocketAlerts/rocket_check_all.py
+- R:/RocketAlerts/run_alerts.py
+- R:/RocketAlerts/run_all.py
+- R:/RocketAlerts/score_conversion.py
+- R:/RocketAlerts/sentiment.py
+- R:/RocketAlerts/shap_analysis.py
+- R:/RocketAlerts/signal_history.py
+- R:/RocketAlerts/slideshow.py
+- R:/RocketAlerts/terminal_cli.py
+- R:/RocketAlerts/test_alert.py
+- R:/RocketAlerts/test_alert_all.py
+- R:/RocketAlerts/test_full_system.py
+- R:/RocketAlerts/test_single_alert.py
+- R:/RocketAlerts/test_tv.py
+- R:/RocketAlerts/test_tvdata.py
+- R:/RocketAlerts/tvdatafeed/setup.py
+- R:/RocketAlerts/twilio_test.py
+- R:/RocketAlerts/uruchom_alerty.py
+- R:/RocketAlerts/utils/date_utils.py
+- R:/RocketAlerts/utils/features.py
+- R:/RocketAlerts/utils/logs.py
+- R:/RocketAlerts/utils/plot_pdf.py
+- R:/RocketAlerts/utils/sl_tp.py
+- R:/RocketAlerts/watchdog.py

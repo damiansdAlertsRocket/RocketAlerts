@@ -1,0 +1,18 @@
+﻿repos:
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v5.0.0
+  hooks:
+    - id: trailing-whitespace
+      exclude: '^(data/|logs/|archive/|branding/|.*\.(csv|json|log)$)'
+    - id: end-of-file-fixer
+      exclude: '^(data/|logs/|archive/|branding/|.*\.(csv|json|log)$)'
+    - id: check-yaml
+
+- repo: local
+  hooks:
+    - id: ban-print
+      name: Ban print() in libs
+      language: pygrep
+      entry: '(^|\s)print\s*\('
+      types: [python]
+      files: '^(utils/|tvdatafeed/|config/)'
