@@ -5,6 +5,12 @@ from helpers import analyze_asset, calculate_dynamic_sl_tp, save_plot_as_png
 from ai_model import predict_asset, predict_proba
 from pdf_export import generate_pdf_report
 from send_alert import send_summary_alert
+import logging, sys
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    handlers=[logging.StreamHandler(sys.stdout)],
+)
 
 # Lista aktywów i interwałów
 ASSETS = [

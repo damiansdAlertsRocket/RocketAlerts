@@ -1057,4 +1057,4 @@ def do_push_webhook(n_clicks, asset, interval, res):
 
 if __name__ == "__main__":
     # Port zgodny z Twoim logiem
-    app.run(debug=True, port=8051)
+    app.run(debug=False, port=8051, use_reloader=False)

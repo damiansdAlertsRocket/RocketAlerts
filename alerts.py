@@ -18,6 +18,12 @@ logging.basicConfig(
 
 from colorama import Fore, init
 init(autoreset=True)
+import logging, sys
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    handlers=[logging.StreamHandler(sys.stdout)],
+)
 
 from helpers import analyze_asset
 from send_alert import send_whatsapp_alert

@@ -1,3 +1,4 @@
+logging.getLogger("twilio").setLevel(logging.WARNING)
 # scheduler.py – RocketAlerts v12 ULTRA EXTREME TOTAL MAX (POPRAWIONY)
 
 import schedule
