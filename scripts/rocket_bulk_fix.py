@@ -47,7 +47,7 @@ def patch_text_adx_rr(txt: str):
         return f"{left}{new}"
 
     # <adx ... < N> (również ADX). Działamy tylko na porównaniach "mniejsze niż".
-    # Przykłady łapane: adx<10, ADX < 12.0, adx_val  < 16
+    # Przykłady łapane: adx<10, ADX < 10.0, adx_val  < 16
     adx_pat = re.compile(r"(\b(?:adx|ADX)\b[^\n<>]{0,40}?<\s*)(12|14|16|18|20)(\.\d+)?\b")
     txt = adx_pat.sub(repl_adx, txt)
 

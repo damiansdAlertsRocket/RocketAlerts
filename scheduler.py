@@ -1,4 +1,4 @@
-logging.getLogger("twilio").setLevel(logging.WARNING)
+
 # scheduler.py – RocketAlerts v12 ULTRA EXTREME TOTAL MAX (POPRAWIONY)
 
 import schedule
@@ -9,6 +9,7 @@ import pytz
 import requests
 import subprocess
 import logging
+logging.getLogger("twilio").setLevel(logging.WARNING)
 
 from utils.init_cooldown_log import init_cooldown_log
 init_cooldown_log()
