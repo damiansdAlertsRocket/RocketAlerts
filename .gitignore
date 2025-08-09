@@ -6,3 +6,10 @@ logs/
 archive/
 *.log
 __pycache__/
+.env
+credentials.json
+token.json
+logs/
+archive/
+*.log
+__pycache__/
