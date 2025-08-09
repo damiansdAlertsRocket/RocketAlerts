@@ -4,9 +4,9 @@ from twilio.rest import Client
 import os
 
 # Dane Twilio
-TWILIO_SID = os.getenv("TWILIO_SID", "AC6fded4b27c89d54ea079f759eb19b0b0")
-TWILIO_TOKEN = os.getenv("TWILIO_TOKEN", "d585e82e8103763b6e2d298e9841fe88")
-TWILIO_PHONE = os.getenv("TWILIO_PHONE", "whatsapp:+14155238886")
+TWILIO_SID = os.getenv("TWILIO_SID")
+TWILIO_TOKEN = os.getenv("TWILIO_TOKEN")
+TWILIO_PHONE = os.getenv("TWILIO_PHONE")
 TO_PHONE = os.getenv("TO_PHONE", "whatsapp:+48785122240")
 USE_WHATSAPP = os.getenv("USE_WHATSAPP", "True") == "True"
 
